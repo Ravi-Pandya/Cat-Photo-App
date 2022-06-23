@@ -1,1 +1,0 @@
-# freeCodeCamp: Cat Photo App
